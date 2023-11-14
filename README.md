@@ -4,8 +4,8 @@ Nele, foi desenvolvido um backtesting de uma estratégia de investimento utiliza
 Como resultado, vimos que o retorno do modelo superou de forma significativa o retorno entregue pelo ibovespa.
 
 ## Arquivos
-* **projeto_itau.ipynb:** arquivo Python que realiza a importação da planilha Excel, contendo o histórico de cotações das empresas listadas em bolsa e seus indicadores, e realiza as operações necessárias para o backtesting da estratégia;
-* **historico_acoes.xlsx:** planilha do Excel contendo as informações necessárias para o backtesting.
+* **projeto_itau.ipynb:** arquivo Python que realiza a importação do arquivo csv, contendo o histórico de cotações das empresas listadas em bolsa e seus indicadores, e realiza as operações necessárias para o backtesting da estratégia;
+* **historico_acoes.csv:** documento contendo as informações necessárias para o backtesting.
 
 ## To Run
 1. Instalar as bibliotecas necessárias para a execução do programa;
